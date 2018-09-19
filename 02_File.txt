@@ -1,2 +1,3 @@
 Second File, first line
 Testing another Commit
+Amend Commit
